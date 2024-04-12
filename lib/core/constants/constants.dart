@@ -24,10 +24,6 @@ String devFeedImageUrl =
     'https://codonnier.tech/naitik/chatta_box/app_images/post_data/';
 
 
- const stripePublishableKeyTest =
-    "pk_test_51OyoOX08ucy4t2miXsRoOKKk17C33kj8ywXXxTmEgrJl5Q31pPkO4DIOEJcdB0UMiLOUBF4GSihPr47HV4RmAMEt00AoxRYBka";
- const stripePublishableKeyLive =
-    "pk_test_51OyoOX08ucy4t2miXsRoOKKk17C33kj8ywXXxTmEgrJl5Q31pPkO4DIOEJcdB0UMiLOUBF4GSihPr47HV4RmAMEt00AoxRYBka";
 
 
 // late RestClient restClient;
@@ -46,10 +42,6 @@ List<int> generateNumbers(int start, int end) {
   return numbers;
 }
 
-final String googleAPIKey = Platform.isAndroid
-    ? "AIzaSyCC_GrO0peF27v5Uf2hgsnkoFGbT4ga9kw"
-    : "AIzaSyCC_GrO0peF27v5Uf2hgsnkoFGbT4ga9kw";
-List<String> googleSearchCountry = ["in,us"];
 List<int> ageList = generateNumbers(1, 100);
 
 class RemoveSpaceAfterHashFormatter extends TextInputFormatter {
