@@ -30,6 +30,4 @@ dart run easy_localization:generate -o codegen_loader.g.dart -S assets/translati
 ## Accouts
 Not any account there
 
-## API endpoints
-Dev:- 
-Live:- 
+ 
