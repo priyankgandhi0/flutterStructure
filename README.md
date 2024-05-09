@@ -31,5 +31,5 @@ dart run easy_localization:generate -o codegen_loader.g.dart -S assets/translati
 Not any account there
 
 ## API endpoints
-Dev:- http://codonnier.tech/dipak/codeStructure/dev/
-Live:- http://codonnier.tech/dipak/codeStructure/dev/
+Dev:- 
+Live:- 
